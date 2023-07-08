@@ -33,5 +33,6 @@ The Project is to recognize fraudulent credit card transactions so that the cust
 6) Interpretability and Explainability: Build models that are interpretable and explainable, allowing fraud analysts to understand the reasoning behind the model's predictions. This helps in identifying and addressing potential vulnerabilities or blind spots in the model when scammers adapt their techniques.
 
 7) Collaboration and Knowledge Sharing: Foster collaboration among financial institutions, regulatory bodies, and fraud detection experts to share information, best practices, and insights regarding fraud detection. Collaborative efforts can lead to the development of more robust fraud detection models and enhance the industry's overall ability to combat credit card fraud effectively.
-   ![image](https://github.com/Mudit88/Creditcard_FraudDetection-/assets/88089351/6569bac2-6121-42de-ad52-c8b014705aad)
+  ![image](https://github.com/Mudit88/Creditcard_FraudDetection-/assets/88089351/a9de051b-1659-4f82-9e6b-485ced6f0bdb)
+
 
